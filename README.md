@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Josh 👋
 
-<!--
-**joshuahiggins/joshuahiggins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack and platform engineer with 14+ years building real-time, high-throughput
+systems — and an early adopter of agentic AI in the engineering workflow.
 
-Here are some ideas to get you started:
+🔭 **Currently open to new roles** — senior/staff engineering or engineering
+management. Cleveland-area (on-site/hybrid) or US-remote.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏎️ **Most recently at Toyota Racing Development**, I was one of three founding
+live-application developers building the real-time apps race teams used trackside:
+pipelines processing millions of records/hour at sub-2-second track-to-app latency,
+so teams could make near-instant race-day decisions.
+
+🤖 **AI in the loop** — I helped build internal MCP servers that let local AI agents
+query live datasets during events, integrated AI code review and security checks into
+CI/CD, and championed dedicating ~10% of weekly eng time to agentic AI for tech-debt
+work (dependency updates, code migrations, version-upgrade analysis).
+
+**Working with:** TypeScript · Node · React · D3 · WebSockets · Rust · Go ·
+AWS (ECS, Lambda/Step Functions, DynamoDB, Kinesis, API Gateway) · Docker · Kubernetes
+
+📍 Lakewood, OH · 🌐 joshuahiggins.com · ✉️ hello@joshuahiggins.com
