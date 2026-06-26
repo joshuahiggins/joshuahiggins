@@ -1,6 +1,6 @@
 ## Hi, I'm Josh 👋
 
-Full-stack and platform engineer with 14+ years building real-time, high-throughput
+Full-stack and platform engineer with 15+ years building real-time, high-throughput
 systems — and an early adopter of agentic AI in the engineering workflow.
 
 🔭 **Currently open to new roles** — senior/staff engineering or engineering
